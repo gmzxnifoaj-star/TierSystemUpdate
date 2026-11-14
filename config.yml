@@ -1,0 +1,20 @@
+tiers:
+  - "LT1:Low Tier 1:0"
+  - "HT1:High Tier 1:25"
+  - "LT2:Low Tier 2:75"
+  - "HT2:High Tier 2:150"
+  - "LT3:Low Tier 3:300"
+  - "HT3:High Tier 3:500"
+  - "LT4:Low Tier 4:800"
+  - "HT4:High Tier 4:1200"
+  - "LT5:Low Tier 5:1800"
+  - "HT5:High Tier 5:2500"
+
+points:
+  default: 1
+  ENDERMAN: 3
+  ZOMBIE: 1
+  WITHER_SKELETON: 5
+  PLAYER: 10
+
+broadcast-rank-up: true
