@@ -1,0 +1,11 @@
+name: TierPlugin
+version: 1.0
+main: me.tier.TierPlugin
+api-version: "1.21"
+commands:
+  tier:
+    description: View or manage tiers
+    usage: /tier [player] | /tier give|set <player> <amount> | /tier reload
+permissions:
+  tier.admin:
+    default: op
